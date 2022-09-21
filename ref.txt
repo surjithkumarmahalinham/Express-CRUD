@@ -1,0 +1,35 @@
+step #1 - Create Express Generator app
+
+step #2 - Install Mongoose Library
+
+step #3 - Import Mongoose Library in out app.js
+
+step #4 - Create a Models folder
+
+step #5 - Create a Schema for your collection
+    -collection - students
+
+step #6 - Create a Mongoose Model of the same schema collection
+
+step #7 - Import the newly created Model into app.js
+
+----------------------------------------------------
+
+step #8 - Create the mongoDB connection
+
+step #9 - Create new Objecct of Model
+
+step #10 - call "Save" methods -> Create/POST method for our collection
+
+step #11 - Refactor our code
+    - made the method POST
+    - made the data dynamic in nature
+        -coming from request object
+
+step #12 - Reading data from collections
+
+    find
+        - Read all data from collection
+        - Read some data based on conditions Query
+
+    -Read a particular data (findById)
